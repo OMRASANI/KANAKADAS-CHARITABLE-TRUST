@@ -8,7 +8,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #f4f4f4;
+    background-color: #FFD700;  /* Yellow background */
 }
 
 /* Header Section */
@@ -93,7 +93,8 @@ main {
 
 .leader {
     display: flex;
-    margin-bottom: 20px;
+    margin-bottom: 30px;  /* Increased spacing between leaders */
+    align-items: center;  /* Align the images and text vertically */
 }
 
 .leader img {
